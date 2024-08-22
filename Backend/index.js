@@ -1,6 +1,6 @@
 const app = require("./app");
 const dotenv = require("dotenv");
-const mongoose = require("mongoose");
+// const mongoose = require("mongoose");
 const dbConnection = require("./utils/db");
 require('dotenv').config();
 
